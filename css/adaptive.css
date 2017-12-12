@@ -814,6 +814,20 @@
 }
 
 @media screen and (max-width: 525px) and (min-width: 300px) {
+
+    .arrows-mobile {
+        position: sticky;
+        top: 135px;
+        height: 45px;
+        width: 65px;
+        background-repeat: no-repeat;
+        right: calc(50% - 10px);
+        background-image: url(../img/arrows-scroll.png);
+    }
+
+    .mob-sec .info-wrap .sol-block p {
+        width: 
+    }
     .hidden-xs-custom {
         display: none !important;
     }

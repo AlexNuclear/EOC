@@ -3297,14 +3297,15 @@ right: 0;
      text-align: left
  }
 
- .price-wrapper .nav-wrap {
-     margin-bottom: 25px
+.sol-wrapper .nav-tabs{
+     margin-bottom: 45px
  }
 
  .table-responsive {
      width: 100%;
      overflow: auto;
      -webkit-overflow-scrolling: touch;
+     position: relative;
  }
 
  .table-responsive .p-block p {
