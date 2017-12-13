@@ -2437,6 +2437,7 @@ right: 0;
 
  .field-margin {
      margin: 20px 0;
+     resize: none;
  }
 
  .check-wrapper {
