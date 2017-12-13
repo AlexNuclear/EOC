@@ -815,6 +815,12 @@
 
 @media screen and (max-width: 525px) and (min-width: 300px) {
 
+
+	.func-wrap .left-img {
+	    float: none; 
+	    flex-direction: row;
+	}
+
     .arrows-mobile {
         position: sticky;
         top: 135px;
